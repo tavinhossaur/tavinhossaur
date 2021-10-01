@@ -10,3 +10,4 @@ as I have never worked in the area, but I have a lot of knowledge of the techniq
 I have good knowledge in C++, HTML, CSS, and I am still learning C#, PHP, JavaScript, Kotlin, Java, and SQL Server. 
 I would very much like to start working in the programming area, to gain experience as soon as possible.
 
+And everything that has a black theme, is enabled for me.
