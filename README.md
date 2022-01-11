@@ -2,7 +2,6 @@
 A little introduction to who i am.
 
 Twitter: https://twitter.com/tavinhossaur  
-Rocketseat: https://app.rocketseat.com.br/me/tavinhossaur  
 LinkedIn: https://www.linkedin.com/in/octávio-barassa-a8090720a
 
 I am from Brazil, i am a high school student, very interested in the programming area, I do not have much experience yet, 
