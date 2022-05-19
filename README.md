@@ -9,4 +9,4 @@ I am studying Systems Development in ETEC "João Belarmino".
 
 And everything that has a black theme, is enabled for me.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tavinhossaur&show_icons=true&theme=radical)
