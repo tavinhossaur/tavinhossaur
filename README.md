@@ -1,4 +1,4 @@
-## Tavinho
+## Tavinho 🖤
 A little introduction to who i am.
 
 [![Social](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=black)](https://twitter.com/tavinhossaur)
