@@ -12,4 +12,6 @@ And everything that has a black theme, is enabled for me.
 ![Tavinho's GitHub stats](https://github-readme-stats.vercel.app/api?username=tavinhossaur&show_icons=true&theme=tokyonight)
 
 Programming languages that i usually work with
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tavinhossaur&layout=compact&langs_count=7&theme=chartreuse-dark"/>                       
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tavinhossaur&layout=compact&langs_count=7&theme=tokyonight"/>
+</div>                     
