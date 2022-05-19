@@ -1,4 +1,4 @@
-## Octávio Barassa
+## Tavinho
 A little introduction to who i am.
 
 [![Social](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=black)](https://twitter.com/tavinhossaur)
@@ -15,4 +15,4 @@ Programming languages that i usually work with
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tavinhossaur&layout=compact&langs_count=7&theme=tokyonight"/>
                     
-My favorite is <img align="center" alt="Kotlin" height="30" width="40" src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=dark">
+My favorite is <img align="center" alt="Kotlin" src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=black">
