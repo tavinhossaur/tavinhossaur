@@ -1,9 +1,9 @@
 # Octávio Barassa
 A little introduction to who i am.
 
-[![Social](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)(https://twitter.com/tavinhossaur)]
+[![Social](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/tavinhossaur)
 
-[![Social](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)(https://www.linkedin.com/in/oct%C3%A1vio-barassa-a8090720a/)]
+[![Social](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oct%C3%A1vio-barassa-a8090720a/)
 
 LinkedIn: https://www.linkedin.com/in/octávio-barassa-a8090720a
 
