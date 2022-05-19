@@ -1,4 +1,4 @@
-### Octávio Barassa
+## Octávio Barassa
 A little introduction to who i am.
 
 [![Social](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=black)](https://twitter.com/tavinhossaur)
@@ -10,6 +10,8 @@ I am studying Systems Development in ETEC "João Belarmino".
 And everything that has a black theme, is enabled for me.
 
 ![Tavinho's GitHub stats](https://github-readme-stats.vercel.app/api?username=tavinhossaur&show_icons=true&theme=tokyonight)
+
+### My main programming language
 <div style="display: inline_block"><br/>
   <img align="center" alt="kotlin" src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=black" />
 </div>                                    
