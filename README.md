@@ -13,5 +13,5 @@ And everything that has a black theme, is enabled for me.
 
 ### My main programming language
 <div style="display: inline_block"><br/>
-  <img align="center" alt="kotlin" src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=black" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jokxis&layout=compact&langs_count=7&theme=chartreuse-dark"/>
 </div>                                    
