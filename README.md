@@ -11,7 +11,6 @@ And everything that has a black theme, is enabled for me.
 
 ◼ Details and statistics: 
 
-![Tavinho's GitHub stats](https://github-readme-stats.vercel.app/api?username=tavinhossaur&show_icons=true&theme=tokyonight)
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tavinhossaur&layout=compact&langs_count=7&theme=tokyonight" />
+![Tavinho's GitHub stats](https://github-readme-stats.vercel.app/api?username=tavinhossaur&show_icons=true&theme=tokyonight) <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tavinhossaur&layout=compact&langs_count=7&theme=tokyonight" height="195"/>
                     
 My favorite is <img align="center" alt="Kotlin" src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=black">
