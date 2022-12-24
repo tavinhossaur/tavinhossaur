@@ -1,4 +1,4 @@
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Kanit&pause=1000&color=7D6CF7&size=30&center=true&vCenter=true&width=1000&heigth=100&lines=Tavinho+%E2%9D%A4)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Kanit&pause=1000&color=7D6CF7&size=30&center=true&vCenter=true&width=1000&heigth=100&lines=Tavinho)](https://git.io/typing-svg)
 
 A little introduction to who i am.
 
