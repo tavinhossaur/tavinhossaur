@@ -15,6 +15,6 @@ And everything that has a black theme, is enabled for me.
 ⚪ Details and statistics: 
 
 <div>
-  <img alt="Tavinho's GitHub Stats" height="180em" src="https://github-readme-stats.vercel.app/api?username=tavinhossaur&show_icons=true&theme=tokyonight"/>
-  <img alt="Tavinho's most used languages" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tavinhossaur&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img alt="Tavinho's GitHub Stats" height="180em" src="https://github-readme-stats.vercel.app/api?username=tavinhossaur&show_icons=true&theme=midnight-purple"/>
+  <img alt="Tavinho's most used languages" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tavinhossaur&layout=compact&langs_count=7&theme=midnight-purple"/>
 </div>
