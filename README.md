@@ -1,4 +1,4 @@
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Kanit&pause=1000&color=7D6CF7&size=30&center=true&vCenter=true&width=1000&heigth=100&lines=Tavinho)](https://git.io/typing-svg)
+<hr></hr>
 
 A little introduction to who i am.
 
@@ -7,8 +7,6 @@ A little introduction to who i am.
 
 I'm from Brazil, just came out from high school, i'm very interested in the programming area and in the tecnologies in general.
 I studied Systems Development in ETEC "João Belarmino" and i still study by my self.
-
-I'm currently focused on learning Flutter development.
 
 And everything that has a black theme, is enabled for me.
 
