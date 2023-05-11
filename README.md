@@ -8,6 +8,6 @@
 Yes, I use a black theme on everything that has a black theme, how did you find out? 
 
 <div>
-  <img alt="Tavinho's GitHub Stats" height="180em" src="https://github-readme-stats.vercel.app/api?username=tavinhossaur&show_icons=true&border_radius=40.0&theme=radical"/>
-  <img alt="Tavinho's most used languages" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tavinhossaur&layout=compact&langs_count=7&border_radius=40.0&theme=radical"/>
+  <img alt="Tavinho's GitHub Stats" height="180em" src="https://github-readme-stats.vercel.app/api?username=tavinhossaur&show_icons=true&hide_border=true&border_radius=10.0&theme=tokyonight"/>
+  <img alt="Tavinho's most used languages" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tavinhossaur&layout=compact&langs_count=7&hide_border=true&border_radius=10.0&theme=tokyonight"/>
 </div>
