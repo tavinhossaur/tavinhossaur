@@ -10,7 +10,7 @@
 
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Hammersmith+One&duration=1500&pause=3000&color=6075F7&repeat=true&width=240&lines=Stay+hungry.+Stay+foolish.)](https://git.io/typing-svg)
 
-  [![My Skills](https://skillicons.dev/icons?i=c,java,kotlin,flutter,mysql,mongo,idea,bash,git&theme=dark)](https://skillicons.dev) 
+  [![My Skills](https://skillicons.dev/icons?i=java,kotlin,spring,nodejs,vue,flutter,mysql,mongo,bash,git,c&theme=dark)](https://skillicons.dev) 
   
 </div> 
 
