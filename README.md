@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&text=Yes,%20I%20use%20a%20black%20theme%20on%20everything%20that%20has%20a%20black%20theme&animation=fadeIn&fontSize=25"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=venom&height=150&color=gradient&fontAlignY=50&fontSize=25&animation=fadeIn&reversal=false&fontColor=404eed"/>
 
 <div align="center">
   
